@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgnupl-son.a CMakeFiles/gnupl-son.dir/gnupl-son.cpp.o
+/usr/bin/ranlib libgnupl-son.a
